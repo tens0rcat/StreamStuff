@@ -12,7 +12,7 @@
 
 
 #Process:
-  1. Start VSCode - StreamStuff
+  1. Start [VSCode](vscode://) - StreamStuff
   1. Start SonicPi
   1. Start OBS
   1. Join LioranBoard to OBS
