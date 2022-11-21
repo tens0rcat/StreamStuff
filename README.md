@@ -1,24 +1,24 @@
 # StreamStuff
-(DONE)Todo: Setup lights
-(DONE)Todo: Start all apps listed below from one button on LorianBoard
-(DONE)Todo: Frame for camera and orbiting black holes
-(DONE)Todo: Redo volume/mute contol buttons on Lianboard to use AHK VMR.ahk library
-(DONE)Todo: find wire management stuff for headset
+1. (DONE)Todo: Setup lights
+1. (DONE)Todo: Start all apps listed below from one button on LorianBoard
+1. (DONE)Todo: Frame for camera and orbiting black holes
+1. (DONE)Todo: Redo volume/mute contol buttons on Lianboard to use AHK VMR.ahk library
+1. (DONE)Todo: find wire management stuff for headset
 
-Todo: Maybe stream LorianDeck from tablet
-Todo: (Lioranboard)Collect links to apps to run into directory on cloud instead of starting up from toolbar directory
-Todo: Set up Microphone
-Todo: Set Lioranboard button state from AutoHotKey
+1. Todo: Maybe stream LorianDeck from tablet
+1. Todo: (Lioranboard)Collect links to apps to run into directory on cloud instead of starting up from toolbar directory
+1. Todo: Set up Microphone
+1. Todo: Set Lioranboard button state from AutoHotKey
 
 
-Process:
-  Start VSCode - StreamStuff
-  Start SonicPi
-  Start OBS
-  Join LioranBoard to OBS
-  Switch to LiveCoding Scene
-  Setup Lights
-  Set title message
-  Start Streaming
+#Process:
+  1. Start VSCode - StreamStuff
+  1. Start SonicPi
+  1. Start OBS
+  1. Join LioranBoard to OBS
+  1. Switch to LiveCoding Scene
+  1. Setup Lights
+  1. Set title message
+  1. Start Streaming
 
 
